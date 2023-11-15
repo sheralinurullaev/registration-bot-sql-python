@@ -2,7 +2,7 @@ import telebot
 import sqlite3
 from telebot import types
 
-bot = telebot.TeleBot('6508756108:AAHHmACnVetXZEEOy3Z4Et4vYZgBJAOvtGw')
+bot = telebot.TeleBot('токен бота')
 
 login = None
 
